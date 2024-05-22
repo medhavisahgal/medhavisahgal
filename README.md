@@ -10,7 +10,7 @@
                         src="https://img.shields.io/twitter/follow/medhavi_sahgal?logo=twitter&style=for-the-badge"
                         alt="medhavi_sahgal" /></a> </p>
 
-- 🌱 I’m currently learning **HTML CSS**
+- 🌱 I’m currently learning **HTML CSS JAVASCRIPT**
 
 - 💬 Ask me about **Competitive programming**
 
