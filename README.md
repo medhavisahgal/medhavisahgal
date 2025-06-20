@@ -1,15 +1,5 @@
 # 💫 About Me:
 🛠 I’m currently working on building fun web apps and polishing my MERN stack skills<br>🤝 I’m looking to collaborate on beginner-friendly open source projects<br>🌱 I’m currently learning full-stack development, especially React and Node.js<br>💬 Ask me about competitive programming or anything web dev-related<br>⚡ Fun fact: I love turning random ideas into mini side projects just for fun
-## 🏆 Achievements & Interests:
-- 🧠 **Competitive Programming:**  
-  - 3⭐ on CodeChef (Peak Rating: 1603)  
-  - Pupil on Codeforces (Peak Rating: 1241)  
-  - Solved 700+ DSA problems across platforms like LeetCode, Codeforces, GFG, CodeChef
-
-- 🥇 **Recognition:**    
-  - Selected mentee at Codecess.Cafe (Top 1%)  
-  - Final round, Google STEP Internship  
-  - Scholar, Kode with Klossy 2023 (1500+ applicants)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/medhavi_sah) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/medhavi-sahgal) 
