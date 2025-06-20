@@ -1,21 +1,5 @@
 # 💫 About Me:
 🛠 I’m currently working on building fun web apps and polishing my MERN stack skills<br>🤝 I’m looking to collaborate on beginner-friendly open source projects<br>🌱 I’m currently learning full-stack development, especially React and Node.js<br>💬 Ask me about competitive programming or anything web dev-related<br>⚡ Fun fact: I love turning random ideas into mini side projects just for fun
-## 🚀 Notable Projects:
-- **💬 [Klean Chat Lite](https://klean-chat-lite.vercel.app/)**  
-  A real-time chat interface built with HTML, CSS, and JavaScript. Features clean design, responsive layout, auto-scroll, and smooth UX — currently being upgraded to React and Socket.io for real-time messaging.
-
-- **🧠 [AI Code Reviewer](https://github.com/medhavisahgal/ai-code-reviewer)** *(React + OpenAI API)*  
-  A smart code review assistant that analyzes pasted code and provides suggestions on bugs, logic, improvements, and time/space complexity using AI.
-
-- **🌦️ [Weather App](https://github.com/medhavisahgal/weather-app)** *(React + OpenWeather API)*  
-  A sleek weather dashboard showing temperature, humidity, wind, and weather icons using API integration. Designed with responsive layout and loading state handling.
-
-- **🔐 [Strong Password Generator](https://github.com/medhavisahgal/password-generator)** *(HTML/CSS/JS)*  
-  A customizable password generator that creates strong passwords with copy-to-clipboard functionality and optional character settings.
-
-- **🕹️ [Whack-a-Mole Game](https://whack-a-mole-medhavi.vercel.app/)** *(HTML/CSS/JS)*  
-  A fun and interactive browser game with custom cursor, responsive grid, and end-game condition using bombs — built just for fun!
-
 ## 🏆 Achievements & Interests:
 - 🧠 **Competitive Programming:**  
   - 3⭐ on CodeChef (Peak Rating: 1603)  
@@ -26,13 +10,6 @@
   - Selected mentee at Codecess.Cafe (Top 1%)  
   - Final round, Google STEP Internship  
   - Scholar, Kode with Klossy 2023 (1500+ applicants)
-
-- 💡 **Interests:**  
-  - Full-stack web development using MERN  
-  - Creating smart UIs and useful mini tools  
-  - CP mentorship and community events  
-  - Turning ideas into polished side projects
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/medhavi_sah) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/medhavi-sahgal) 
